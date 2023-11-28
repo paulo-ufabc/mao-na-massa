@@ -1,6 +1,4 @@
 # Teste prático de programação Java
-
-## Descrição do Projeto
 <p align="center">Teste Prático pela Plataforma Gupy</p>
 
 ## Iniciando...
