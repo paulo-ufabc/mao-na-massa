@@ -6,7 +6,7 @@
 - `git clone git@github.com:paulo-ufabc/mao-na-massa.git`
 - `cd mao-na-massa`
 
-Agora você poderá executar os vários comandos abaixo. 
+Confirme os pré requisitos abaixo antes de executar. 
 
 ## Pré-requisitos
 
