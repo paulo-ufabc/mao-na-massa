@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -23,11 +24,16 @@
 hs_err_pid*
 replay_pid*
 
+=======
+>>>>>>> 8267f07 (Finalizado)
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+<<<<<<< HEAD
 .idea
+=======
+>>>>>>> 8267f07 (Finalizado)
 
 ### Eclipse ###
 .apt_generated
@@ -52,5 +58,9 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 /.idea/
+=======
+.DS_Store
+>>>>>>> 8267f07 (Finalizado)
