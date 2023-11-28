@@ -1,5 +1,5 @@
 # Teste prático de programação Java
-<p align="center">Teste Prático pela Plataforma Gupy</p>
+<p align="left">Teste Prático pela Plataforma Gupy</p>
 
 ## Iniciando...
 
